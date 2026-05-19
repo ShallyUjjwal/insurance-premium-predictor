@@ -33,3 +33,16 @@ Built using:
 - Pydantic
 
 ---
+
+
+## Screenshots
+
+### Streamlit Frontend
+
+<img width="1464" height="964" alt="image" src="https://github.com/user-attachments/assets/fe2121f6-e9b4-427d-ab71-9f20a8ee3cec" />
+
+
+### FastAPI Swagger Docs
+
+<img width="1118" height="882" alt="image" src="https://github.com/user-attachments/assets/57e2b06e-99bb-49d4-b4f6-efd1cbed9307" />
+
